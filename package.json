@@ -1,0 +1,22 @@
+{
+  "name": "basic-eth-env",
+  "version": "1.0.0",
+  "description": "Making an eth-solidity dev env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cold-briu/basic-eth-env.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cold-briu/basic-eth-env/issues"
+  },
+  "homepage": "https://github.com/cold-briu/basic-eth-env#readme",
+  "dependencies": {
+    "truffle": "^5.3.1"
+  }
+}
