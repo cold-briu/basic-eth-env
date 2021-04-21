@@ -43,3 +43,17 @@ Making an eth-solidity dev env
 3. Open truffle console 
 
 		$ truffle console
+
+## Developing 
+
+1. Write your file under "contracts" 
+
+2. Reference your file in "migratons" 
+
+3. deploy
+
+		$ truffle migrate
+
+4. instantiate contract 
+
+		contractName.deployed().then(function(instance){ app = instance; })
