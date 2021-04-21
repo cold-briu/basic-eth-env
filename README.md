@@ -39,3 +39,7 @@ Making an eth-solidity dev env
 2. Start ganache-cli
 
 		$ ganache-cli
+
+3. Open truffle console 
+
+		$ truffle console
