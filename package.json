@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cold-briu/basic-eth-env#readme",
   "dependencies": {
+    "ganache-cli": "^6.12.2",
     "truffle": "^5.3.1"
   }
 }

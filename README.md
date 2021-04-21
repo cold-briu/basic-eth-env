@@ -21,10 +21,21 @@ Making an eth-solidity dev env
 
 		$ npm i truffle
 		# you can use -g for global install
-		# working without global needs npx preffix to work 
+		# working without global needs npx preffix to work
+
+2. Ganache
+
+- Gui on https://www.trufflesuite.com/ganache or: 
+- Cli:
+		$ npm i ganache-cli
+
 
 ## Boilerplate
 
 1. Initialize new empty Ethereum project inside an empty folder
 
 		$ truffle init
+
+2. Start ganache-cli
+
+		$ ganache-cli
